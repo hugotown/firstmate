@@ -1,6 +1,5 @@
 projects/
 state/
-data/
 scratchpad*
 .no-mistakes/
 .lavish/
@@ -10,6 +9,4 @@ scratchpad*
 __pycache__/
 *.pyc
 .env
-config/
-
 .tools/
